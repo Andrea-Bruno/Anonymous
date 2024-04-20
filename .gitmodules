@@ -1,0 +1,3 @@
+[submodule "EncryptedMessaging"]
+	path = EncryptedMessaging
+	url = https://github.com/Andrea-Bruno/EncryptedMessaging
