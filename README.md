@@ -21,3 +21,6 @@ Encrypted communication library to create applications similar to Telegram or Si
 Library that creates the socket communication channel that allows messages to be routed. Supports spooler, broken connection recovery, communication error handling and everything you need to send and receive data packets professionally
 * [API Documentation](https://www.fuget.org/packages/CommunicationChannel/)
 
+### Secure Storage
+It is a library that allows applications to save data and objects in an encrypted manner, this serves to prevent malicious software from violating the application, its settings and its data, and the information it saves permanently.
+* [API Documentation](https://www.fuget.org/packages/SecureStorage/)
